@@ -1,0 +1,15 @@
+{
+  "name": "webapp-csv",
+  "version": "1.0.0",
+  "description": "zuerst muss nodejs installiert werden das kann man mit \"npm init -y\" gemacht werden\r dann sollte noch bootstrap installiert werden mit \"npm install bootstrap\"\r und danach kann man mit \"node index.js\" den server starten es sollte die nachricht kommen \"Server läuft auf port 3000\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
